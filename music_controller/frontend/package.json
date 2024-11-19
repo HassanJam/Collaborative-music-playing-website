@@ -2,9 +2,9 @@
   "name": "frontend",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts":{
+  "scripts": {
     "dev": "webpack --mode development  --watch",
-    "build": "webpack --mode production" 
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
